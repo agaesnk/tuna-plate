@@ -1,4 +1,4 @@
-# tuna-plate 2018
+# CometeElCoco 2018
 
 > Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
 

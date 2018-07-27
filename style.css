@@ -35,6 +35,22 @@ body {
   }
 }
 
+.load-screen h1{
+  display: block;
+  margin: 0;
+  font-size: 30px;
+}
+
+.load-screen{
+  text-align: center;
+  background-image: url(background-girl.png);
+  height: 667px;
+}
+
+.load-screen .top{
+  padding-top: 30px;
+}
+
 /* ---- header ---- */
 
 /* ---- footer ---- */
